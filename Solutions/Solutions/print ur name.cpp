@@ -1,0 +1,5 @@
+#include<iostream>
+int main(){
+  std::cout<<"Hello,Vamshika">>'\n';
+return 0;
+}
